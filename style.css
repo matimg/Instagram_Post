@@ -1,0 +1,53 @@
+body{
+    background: gray;
+    margin: 0;
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+}
+
+img{
+    width: 100%;
+}
+
+.tarjeta{
+    background-color: white;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    padding-top: 20px;
+}
+
+header i{
+    font-size: 23px;
+}
+
+header p{
+    font-size: 15px;
+}
+
+.icon-text{
+    display:flex;
+}
+
+.textos{
+    margin-top: -20px;
+    margin-left: 5px;
+}
+
+.botones{
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+}
+
+footer{
+    padding: 5px;
+    padding-bottom: 20px;
+}
